@@ -1,0 +1,79 @@
+.banner-container {
+    background-image: url('https://www.propelx.com/wp-content/uploads/2022/10/home-page-6.6-bg.png');
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5em 2em 8em 2em;
+    margin-top: 80px;
+    background-position: center;
+}
+
+.bannerContent {
+    padding-left: 125px;
+}
+
+.bannerTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.bannerText {
+    color: #1F1A31;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.4em;
+    padding: 20px 0;
+}
+
+.bannerLinksContainer {
+
+}
+
+.bannerLinksUl {
+    display: flex;
+    padding: 15px 5px;
+}
+
+.bannerLinksUl li {
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+.bannerLink {
+    color: #0700ED;
+    font-weight: 600;
+    line-height: 1.7em;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.emailInput {
+    font-size: 16px;
+    color: #5C636E;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #7F8897;
+    border-radius: 8px 8px 8px 8px;
+    padding: 6px 10px;
+}
+
+.emailButton {
+    padding: 6px 24px 6px 24px;
+}
+
+.bannerTextBottom {
+    padding: 30px 0;
+    font-size: 13px;
+    color: #1F1A31;
+}
+
+.link {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link:hover {
+    text-decoration: underline;
+}

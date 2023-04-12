@@ -1,0 +1,16 @@
+.movementContainer {
+    background-color: #EDEDF0;
+    padding: 40px 0;
+}
+
+.testTitle {
+    font-weight: 500;
+    font-family: "Montserrat", Sans-serif;
+}
+
+.textSmall {
+    text-align: justify;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20px;
+}

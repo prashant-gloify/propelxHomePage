@@ -1,0 +1,10 @@
+.newsImageContainer .logo {
+    width: 200px;
+    height: 80px;
+}
+
+.newsImageContainer .logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
